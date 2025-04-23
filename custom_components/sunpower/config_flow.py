@@ -9,8 +9,8 @@ from homeassistant import (
     core,
     exceptions,
 )
-from homeassistant.const import __version__ as HAVERSION
 from homeassistant.const import CONF_HOST
+from homeassistant.const import __version__ as HAVERSION
 
 from .const import (
     DEFAULT_SUNPOWER_UPDATE_INTERVAL,
