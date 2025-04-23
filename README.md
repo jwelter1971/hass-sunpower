@@ -289,6 +289,6 @@ See [Issue-15](https://github.com/krbaker/hass-sunpower/issues/15)
 [commits]: https://github.com/krbaker/hass-sunpower/commits/master
 [maintenance-shield]: https://img.shields.io/badge/maintainer-Keith%20Baker%20%40krbaker-blue.svg?style=for-the-badge
 [releases-shield]: https://img.shields.io/github/release/krbaker/hass-sunpower.svg?style=for-the-badge
-[releases]: https://github.com/krbaker/hass-sunpower/releases
+[releases]: https://github.com/jwelter1971/hass-sunpower/releases
 [sunpower-us]: https://us.sunpower.com/products/solar-panels
 [pi_setup]: https://starreveld.com/PVS6%20Access%20and%20API.pdf
