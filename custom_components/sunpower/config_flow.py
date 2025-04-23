@@ -3,11 +3,13 @@
 import logging
 
 import voluptuous as vol
+from awesomeversion import AwesomeVersion
 from homeassistant import (
     config_entries,
     core,
     exceptions,
 )
+from homeassistant.const import __version__ as HAVERSION
 from homeassistant.const import CONF_HOST
 
 from .const import (
