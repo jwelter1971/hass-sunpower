@@ -4,13 +4,6 @@ Home Assistant SunPower Integration using the local installer ethernet interface
 
 Original Integration is [https://github.com/krbaker/hass-sunpower](https://github.com/krbaker/hass-sunpower)
 
-* If this is a fork, please add what's different here and fix up the badges below
-
-[![GitHub Release][releases-shield]][releases]
-[![GitHub Activity][commits-shield]][commits]
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
-![Project Maintenance][maintenance-shield]
-
 ## ***🟥 WARNING 🟥***
 
 This integration uses endpoints designed for the provisioning of the PVS system.
@@ -287,8 +280,5 @@ See [Issue-15](https://github.com/krbaker/hass-sunpower/issues/15)
 [power-factor]: https://en.wikipedia.org/wiki/Power_factor
 [commits-shield]: https://img.shields.io/github/commit-activity/y/custom-components/blueprint.svg?style=for-the-badge
 [commits]: https://github.com/krbaker/hass-sunpower/commits/master
-[maintenance-shield]: https://img.shields.io/badge/maintainer-Keith%20Baker%20%40krbaker-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/krbaker/hass-sunpower.svg?style=for-the-badge
-[releases]: https://github.com/jwelter1971/hass-sunpower/releases
 [sunpower-us]: https://us.sunpower.com/products/solar-panels
 [pi_setup]: https://starreveld.com/PVS6%20Access%20and%20API.pdf
