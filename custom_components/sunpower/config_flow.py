@@ -104,7 +104,7 @@ class OptionsFlowHandler(config_entries.OptionsFlow):
         """Initialize options flow."""
         if AwesomeVersion(HAVERSION) < "2024.11.99":
             self.config_entry = config_entry
-           
+            
     async def async_step_init(
         self,
         user_input: dict[str, any] | None = None,
